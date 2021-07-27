@@ -1,0 +1,3 @@
+- 👋 # Hi, I’m Paulo
+- 👀 # I’m interested in Javacript
+- 🌱 # I’m currently learning Html, Css, JavaScript
